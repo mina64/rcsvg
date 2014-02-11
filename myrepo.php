@@ -1,6 +1,6 @@
-<?php echo "This is test"; 
+<?php echo "This is git test"; 
 echo "Hello mahbubeh";
-echo "this is my test with mohab";
 
-?>this is mahbubeh
+
+?>
 
